@@ -67,9 +67,8 @@ println(x)
 y = x + 5
 println(y)
 ```
-```
 
-### Steps to Create and Update the Repository
+## Steps to Create and Update the Repository
 1. **Initialize the Repository**: Create a new repository on GitHub.
 2. **Clone the Repository**: Clone it to your local machine.
    ```bash
